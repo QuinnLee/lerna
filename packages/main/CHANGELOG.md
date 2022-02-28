@@ -1,3 +1,5 @@
+# main-lerna-semantic-release-test 1.0.0 (2022-02-28)
+
 ## main-lerna-semantic-release-test [1.0.1](https://github.com/QuinnLee/lerna/compare/main-lerna-semantic-release-test@1.0.0...main-lerna-semantic-release-test@1.0.1) (2022-02-11)
 
 

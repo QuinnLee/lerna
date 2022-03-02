@@ -1,4 +1,6 @@
 export default foobar = "FOOO";
+export default foobar = "FOOO";
+export default foobar = "FOOO";
 export const baz = "FOOO";
 export const baf = "FOOO";
 export const bar = "FOOO";

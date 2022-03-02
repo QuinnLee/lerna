@@ -1,6 +1,6 @@
 {
   "name": "p1-lerna-semantic-release-test",
-  "version": "0.5.0",
+  "version": "10.1.0",
   "description": "Package One",
   "main": "index.js",
   "license": "MIT"

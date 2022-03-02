@@ -1,3 +1,15 @@
+## main-lerna-semantic-release-test [1.0.1](https://github.com/QuinnLee/lerna/compare/main-lerna-semantic-release-test@1.0.0...main-lerna-semantic-release-test@1.0.1) (2022-03-02)
+
+
+
+
+
+### Dependencies
+
+* **p1-lerna-semantic-release-test:** upgraded to 0.4.0
+* **p2-lerna-semantic-release-test:** upgraded to 0.4.0
+* **p3-lerna-semantic-release-test:** upgraded to 0.3.0
+
 ## main-lerna-semantic-release-test [1.0.1](https://github.com/QuinnLee/lerna/compare/main-lerna-semantic-release-test@1.0.0...main-lerna-semantic-release-test@1.0.1) (2022-02-28)
 
 

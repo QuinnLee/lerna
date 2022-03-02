@@ -5,8 +5,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "p1-lerna-semantic-release-test": "0.3.0",
-    "p2-lerna-semantic-release-test": "0.3.0",
-    "p3-lerna-semantic-release-test": "0.2.1"
+    "p1-lerna-semantic-release-test": "0.4.0",
+    "p2-lerna-semantic-release-test": "0.4.0",
+    "p3-lerna-semantic-release-test": "0.3.0"
   }
 }
